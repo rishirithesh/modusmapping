@@ -6,11 +6,13 @@ This project demonstrates a web-based crime analytics platform designed to assis
 -------
 
 **Project Objective**
+----
 To build a crime analysis tool that visualizes and summarizes crime data by leveraging the recurring behavioral patterns (modus operandi) of criminals. This tool empowers police personnel with visual insights and backend intelligence to track, link, and potentially prevent recurring crimes.
 
 ------
 
 **Problem Statement**
+----
 We chose the fifth challenge among six problem statements offered at the hackathon:
 
 Smart Traffic Management System
@@ -31,6 +33,7 @@ Suggested by our institute mentors and professors, ModusMapping stood out to us 
 
 ***Project Architecture***
 **Tech Stack Overview**
+----
 
 Frontend: HTML, CSS, JavaScript
 
@@ -43,6 +46,7 @@ AI Assistance: chat.deepseek.com, x.ai
 -----
 
 **Development Workflow**
+----
 Data Generation & Processing
 Since real-time access to criminal data was restricted, we designed and generated a large-scale synthetic crime dataset to simulate real-world complexity. This included data points like:
 
@@ -95,9 +99,11 @@ Can be scaled into a larger, state-wide police intelligence system
 -----
 
 **License**
+----
 This project is shared as part of an academic hackathon and is open for educational and collaborative enhancements. For reuse or redevelopment, proper attribution to the original team is appreciated.
 
 -----
 
 **About Me**
+----
 Hi, I'm Rishi R, a Computer Science Engineering student from Matheson College of Engineering, passionate about building intelligent systems that combine data science, backend logic, and impactful front-end design. My interests span data analytics, full-stack development, and AI-based automation tools.
